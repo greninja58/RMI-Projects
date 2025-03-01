@@ -1,0 +1,9 @@
+2025-03-01 23:15:23.962 - Server started
+2025-03-01 23:16:52.277 - List files request received
+2025-03-01 23:16:52.280 - Listed 2 files - Time taken: 0ms
+2025-03-01 23:17:04.067 - Download request received for file: basic.txt
+2025-03-01 23:17:04.072 - Sent file: basic.txt (20 bytes) - Time taken: 1ms
+2025-03-01 23:17:58.060 - List files request received
+2025-03-01 23:17:58.061 - Listed 2 files - Time taken: 1ms
+2025-03-01 23:18:21.042 - Download request received for file: video.ts
+2025-03-01 23:18:23.792 - Sent file: video.ts (880975520 bytes) - Time taken: 2750ms

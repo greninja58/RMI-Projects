@@ -1,0 +1,9 @@
+2025-03-01 23:16:13.839 - Client started
+2025-03-01 23:16:13.847 - Connecting to server: localhost
+2025-03-01 23:16:14.050 - Connected to server - Time taken: 199ms
+2025-03-01 23:16:52.274 - Requesting file list
+2025-03-01 23:16:52.282 - Received file list - Time taken: 8ms
+2025-03-01 23:17:04.065 - Requesting download of file: basic.txt
+2025-03-01 23:17:04.075 - Received file data (20 bytes) - Time taken: 7ms
+2025-03-01 23:17:04.077 - Saved file to disk - Time taken: 1ms
+2025-03-01 23:17:10.353 - Client shutting down
