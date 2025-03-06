@@ -1,4 +1,3 @@
-// Finally, we create the client
 // CalcClient.java
 import java.rmi.Naming;
 import java.util.Scanner;
