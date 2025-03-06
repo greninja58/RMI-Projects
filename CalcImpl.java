@@ -1,5 +1,4 @@
 
-// Next, we implement the interface
 // CalcImpl.java
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
